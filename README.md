@@ -14,3 +14,5 @@ Topics included are:
 * **Data Visualization and Dimension Reduction**
 * **Classification**
 * **Regression**
+
+![fig1](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png)

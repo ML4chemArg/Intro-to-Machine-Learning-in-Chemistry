@@ -1,8 +1,6 @@
-<div align="center">
-
-![banner](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/banner.jpg)
-
-</div>
+<p align="center">
+  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/banner.jpg" alt="banner" class="center" width="700"/>
+</p>
 
 # Introduction to Machine Learning for chemists
 
@@ -15,4 +13,6 @@ Topics included are:
 * **Classification**
 * **Regression**
 
-![fig1](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png)
+<p align="center">
+  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png" alt="fig1" width="300"/>
+</p>

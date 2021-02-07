@@ -14,5 +14,5 @@ Topics included are:
 * **Regression**
 
 <p align="center">
-  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png" alt="fig1" width="300"/>
+  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png" alt="fig1" width="400"/>
 </p>

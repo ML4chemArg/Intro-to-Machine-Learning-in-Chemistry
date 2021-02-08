@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/banner4.jpg" alt="banner"/>
+  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/banner5.jpg" alt="banner"/>
 </p>
 
 # Introduction to Machine Learning for chemists

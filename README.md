@@ -51,6 +51,7 @@ properties. Correlations between other attributes and density are calculated. Bo
 linear regression analyses are performed, and the importance of standardization is exhibited. Lastly, LASSO regularization strategy is applied, paying attention to the magnitude and meaning of the
 regularization constant
 
+
 <p align="center">
   <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png" alt="fig1" width="400"/>
 </p>

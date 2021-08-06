@@ -48,8 +48,7 @@ Precision, and Recall) are examined.
 
 Regression analysis is performed to predict wine density based on other physicochemical
 properties. Correlations between other attributes and density are calculated. Both simple and multiple
-linear regression analyses are performed, and the importance of standardization is exhibited. Lastly, LASSO regularization strategy is applied, paying attention to the magnitude and meaning of the
-regularization constant
+linear regression analyses are performed, and the importance of standardization is exhibited. Lastly, LASSO regularization strategy is applied, paying attention to the magnitude and meaning of the regularization constant.
 
 
 <p align="center">

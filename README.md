@@ -13,7 +13,7 @@ The first notebook is focused on introducing students to Python from a practical
 mainly teaching how to use functions and advanced libraries. Variables, data types, value assignment,
 and value comparison are covered to complement with functions. Pandas library is presented for data
 handling, Pandas DataFrames and Seaborn library are applied for fitting and plotting a linear
-regression
+regression.
 
 * **Basic Statistics**
 

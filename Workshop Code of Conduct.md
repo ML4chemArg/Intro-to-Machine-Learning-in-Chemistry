@@ -86,7 +86,7 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at [https://www.contributor-covenant.org/translations][translations].
 
-This Code of Conduct is also partialy adapted from the [p5.js Code of Conduct][homepage_p5], available at https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md and the [Virtual Learning Centre Program Code of Conduct][homepage_learning] avilable at https://virtuallearning.ca/student-services/code-of-conduct/.
+This Code of Conduct is also partialy adapted from the [p5.js Code of Conduct][homepage_p5], available at https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md and the [Virtual Learning Centre Program Code of Conduct][homepage_learning] available at https://virtuallearning.ca/student-services/code-of-conduct/.
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

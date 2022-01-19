@@ -1,4 +1,4 @@
-# Workshop Code of Conduct
+# Workshop Covenant Code of Conduct
 
 ## Our Pledge
 
